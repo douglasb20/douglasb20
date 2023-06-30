@@ -6,13 +6,13 @@ Sou um Desenvolvedor Full-Stack que ama programar e apaixonado por PHP e JavaScr
 Você pode descobrir mais sobre mim no [Instagram](https://www.instagram.com/douglasb20/) e/ou [Linkedin](https://www.linkedin.com/in/douglasdev/)
 
 
-### Habilidades
+## Habilidades
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,cs,php,bootstrap,jquery,next,express&perline=8)
 
 
 
-### Dev Tools
+## Dev Tools
 ![Dev Tools](https://skillicons.dev/icons?i=docker,git,mysql,linux,postman,redux,styledcomponents,vscode,gcp)
 
 
