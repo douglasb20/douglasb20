@@ -1,22 +1,27 @@
+# 👋 Olá, eu sou o Douglas 😊
+um desenvolvedor apaixonado pelas tecnologias PHP e JavaScript. Com experiência sólida em NextJS, NestJS e Docker, busco constantemente aprimorar minhas habilidades para criar soluções robustas e eficientes.
 
-# 😊 Olá, eu sou o Douglas
+## Principais Stacks
+- PHP
+- JavaScript
 
-Sou um Desenvolvedor Full-Stack que ama programar e apaixonado por PHP e JavaScript e estou constantemente buscando aprender e me aprimorar.
+## Tecnologias Favoritas
+- NextJS
+- NestJS
+- Docker
+- PrimeReact
+- E muito mais!
 
-Você pode descobrir mais sobre mim no [Instagram](https://www.instagram.com/douglasb20/) e/ou [Linkedin](https://www.linkedin.com/in/douglasdev/)
-
-
-## Habilidades
-
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,cs,php,bootstrap,jquery,next,express&perline=8)
-
-
+## Bancos de Dados
+- MySQL/MariaDB
+- PostgreSQL
+- SQLServer
 
 ## Dev Tools
 ![Dev Tools](https://skillicons.dev/icons?i=docker,git,mysql,linux,postman,redux,styledcomponents,vscode,gcp)
 
+Vamos juntos construir o futuro do desenvolvimento web!
 
-- ![apache](https://img.shields.io/badge/Apache-blue?style=for-the-badge&logo=apache&logoColor=white)
-- ![composer](https://img.shields.io/badge/Composer-blue?style=for-the-badge)
-- ![twig](https://img.shields.io/badge/Twig-blue?style=for-the-badge)
+🌐 [Linkedin](https://www.linkedin.com/in/douglasdev/) | 📧 [Instagram](https://www.instagram.com/douglasb20/)
+
 
