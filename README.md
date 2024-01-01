@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Douglas 😊
-um desenvolvedor apaixonado pelas tecnologias PHP e JavaScript. Com experiência sólida em NextJS, NestJS e Docker, busco constantemente aprimorar minhas habilidades para criar soluções robustas e eficientes.
+Sou um desenvolvedor apaixonado pelas tecnologias PHP e JavaScript. Com experiência sólida em NextJS, NestJS e Docker, busco constantemente aprimorar minhas habilidades para criar soluções robustas e eficientes.
 
 ## Principais Stacks
 - PHP
