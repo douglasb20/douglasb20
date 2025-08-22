@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou o Douglas 😊
-Sou um desenvolvedor com experiência desde 2014 e um interesse apaixonado por tecnologias web, porém ando caminhando a novas tecnologias como C# e NodeJS/NestJS. Meu conhecimento em JavaScript inclui JQuery, além de ReactJS, React Native, NodeJS e NestJS, também tenho habilidades em TypeScript para melhorar ainda mais o desenvolvimento. Além disso, tenho experiência com bancos de dados SQL, incluindo SQL Server, MySQL, PostgreSQL e MariaDB. Meus conhecimentos em CSS incluem Bootstrap, Tailwind CSS e PrimeFaces React. Estou sempre procurando aprender mais e melhorar minhas habilidades para oferecer soluções eficientes e eficazes para meus clientes. 
+Sou desenvolvedor desde 2014, com paixão por tecnologias web e experiência em diversas stacks, incluindo PHP, C# e NodeJS/NestJS. Tenho sólido conhecimento em JavaScript, abrangendo jQuery, ReactJS, React Native, NodeJS/Express e NestJS, além de domínio em TypeScript para tornar o desenvolvimento mais robusto e escalável.
+
+Possuo experiência com bancos de dados SQL Server, MySQL, PostgreSQL e MariaDB, e em CSS, trabalho com Bootstrap, Tailwind CSS e PrimeFaces React.
+
+Estou sempre em busca de aprendizado contínuo e aprimoramento das minhas habilidades, com o objetivo de entregar soluções eficientes, modernas e de alto valor para cada projeto.
 
 ## Principais Stacks
 - PHP
